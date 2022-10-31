@@ -1,0 +1,19 @@
+image{display:block;
+    max-width:100%;
+    height:auto;}
+    ol.viñeta{list-style-type:square;}
+      body{
+      font-family:monospace;
+      background:url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
+      }
+      #title{text-align:center;
+      margin-top:20px;
+      margin-bottom:40px;
+      }
+     #image{max-width:100%;
+      height:auto;
+      display:block;
+      margin:auto;
+      margin-bottom:10px;
+    
+      }
